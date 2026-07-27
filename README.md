@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Placeholder/Path/To/Your/Icon32.png" alt="FloorEdit Icon" width="32">
   FloorEdit for Revit®
 </h1>
 
