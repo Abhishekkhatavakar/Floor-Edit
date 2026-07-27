@@ -8,11 +8,6 @@
 
 Built with a clean, native WPF interface, it features a robust 3D boolean geometry engine that instantly combines overlapping boundaries, separates disjointed solids, and automates solid-solid cuts—saving hours of repetitive manual sketch editing.
 
-<p align="center">
-  <!-- 🌟 Drop your professional animated GIF here so people immediately see what the tool does! -->
-  <img src="https://raw.githubusercontent.com/Placeholder/Path/To/Your/AnimatedDemo.gif" alt="FloorEdit Demo Animation" width="700">
-</p>
-
 ---
 
 ## ✨ Key Features
