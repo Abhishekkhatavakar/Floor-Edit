@@ -9,8 +9,6 @@
 <p align="center">
   <a href="https://apps.autodesk.com/"><img src="https://img.shields.io/badge/Autodesk_App_Store-Available-0696D7?style=flat-square&logo=autodesk" alt="Autodesk App Store"></a>
   <img src="https://img.shields.io/badge/Revit-2027_Supported-blue?style=flat-square" alt="Revit 2027">
-  <img src="https://img.shields.io/badge/.NET-WPF_MVVM-512BD4?style=flat-square" alt=".NET WPF">
-  <img src="https://img.shields.io/badge/License-MIT-success?style=flat-square" alt="License">
 </p>
 
 <p align="center">
@@ -61,3 +59,14 @@ Whether you are dealing with overlapping boundaries, floors chopped into disconn
    * **Select:** Rapid-fire click specific floors. Press <kbd>ESC</kbd> to finish selecting.
 4. Under **Action**, select `Combine Selected`, `Separate Floors`, or `Unjoin & Cut`.
 5. Click **Apply**. The tool processes the geometry in the background and provides a success summary.
+
+## ⚖️ License & Copyright
+
+**© 2026 AK Tools. All Rights Reserved.**
+
+This software is provided under a proprietary End User License Agreement (EULA). By downloading and installing this software, you agree that you may not decompile, reverse engineer, disassemble, modify, or redistribute the installer or underlying source files without explicit written consent. 
+
+See the attached `LICENSE` file for full terms.
+
+---
+*Developed by [Abhishek Khatavakar](https://www.linkedin.com/in/abhishek-khatavakar) at AK Tools.*
